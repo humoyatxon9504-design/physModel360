@@ -1,0 +1,9 @@
+{
+  "name": "physmodel360",
+  "private": true,
+  "description": "PhysModel 360 — fizika o‘qitish platformasi",
+  "dependencies": {
+    "@vercel/blob": "^0.23.0",
+    "pg": "^8.11.3"
+  }
+}
